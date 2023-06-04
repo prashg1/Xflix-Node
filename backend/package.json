@@ -8,28 +8,32 @@
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
+    "keywords": [],
     "license": "ISC",
     "dependencies": {
       "bcryptjs": "^2.4.3",
+      "body-parser": "^1.20.2",
       "compression": "^1.7.4",
       "core-js": "^3.0.0",
       "cors": "^2.8.5",
       "cross-env": "^7.0.0",
-      "dotenv": "^8.2.0",
-      "express": "^4.17.1",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
       "helmet": "^4.1.0",
       "http-status": "^1.4.0",
       "joi": "^17.3.0",
       "jsonwebtoken": "^8.5.1",
       "moment": "^2.29.1",
-      "mongoose": "^5.10.9",
+      "mongodb": "^5.0.1",
+      "mongoose": "^6.9.2",
       "morgan": "^1.9.1",
-      "nodemon": "^2.0.12",
+      "nodemon": "^2.0.20",
       "passport": "^0.4.0",
       "passport-jwt": "^4.0.0",
       "pm2": "^4.5.0",
       "query-string": "^7.0.1",
       "validator": "^13.0.0",
       "winston": "^3.2.1"
+      "path": "^0.12.7"
     }
   }
